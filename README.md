@@ -10,7 +10,7 @@ Aqui está o que eu já aprendi e os exemplos práticos de cada aula:
 
 | Aula | Conteúdo Principal | Link para o Arquivo | Status |
 | :---: | :--- | :---: | :---: |
-| 01 | Entrada/Saída de dados (`input`/`print`) | [Ver código](aulas/aula01.py) | ✅ Concluído |
+| 01 | Entrada/Saída de dados (`input`/`print`) | [Ver código](lopal_1termo\BRUNO (CASTELLO)\TURMA B\AULA1/) | ✅ Concluído |
 | 02 | Condicionais (`if`, `elif`, `else`) | [Ver código](aulas/aula02.py) | ✅ Concluído |
 | 03 | Repetições (`while` e `for`) | [Ver código](aulas/aula03.py) | ✅ Concluído |
 | 04 | Funções e Modularização | [Ver código](aulas/aula04.py) | ⏳ Em andamento |
@@ -40,7 +40,3 @@ Espaço reservado para os grandes projetos da matéria:
 
 ---
 
-## 👥 Aluno
-* **Nome:** Seu Nome Completo Aqui
-* **RA / Matrícula:** 12345678
-* **Turma:** DEV Castello - 1º Termo
