@@ -14,14 +14,14 @@ Abaixo está o cronograma lógico das aulas com acesso direto aos códigos e mat
 
 | Código da Aula | Conteúdo Principal | Exemplos Práticos | Status |
 | :---: | :--- | :---: | :---: |
-| **Aula 01** | Execução Sequencial, Variáveis, Constantes e comentários (`#`) | [Ver Código](./aulas/aula01_variaveis.py) | ✅ Concluído |
-| **Aula 02** | Tipos de Dados (`int`, `float`, `str`, `bool`) e Operadores | [Ver Código](./aulas/aula02_tipos.py) | ✅ Concluído |
-| **Aula 03** | Entrada de dados (`input()`), conversão de tipos e f-Strings | [Ver Código](./aulas/aula03_inputs.py) | ✅ Concluído |
-| **Aula 04** | Estruturas Condicionais Simples e Compostas (`if` / `else`) | [Ver Código](./aulas/aula04_condicionais.py) | ✅ Concluído |
-| **Aula 05** | Estruturas Condicionais Encadeadas (`elif`) e Operadores Lógicos | [Ver Código](./aulas/aula05_elif.py) | ✅ Concluído |
-| **Aula 06** | Estruturas de Repetição baseadas em contador (`for` e `range`) | [Ver Código](./aulas/aula06_for.py) | ⏳ Em Andamento |
-| **Aula 07** | Estruturas de Repetição baseadas em condição (`while` e `break`) | [Ver Código](./aulas/aula07_while.py) | 📅 Planejado |
-| **Aula 08** | Modularização e Criação de Ferramentas próprias (`def`) | [Ver Código](./aulas/aula08_funcoes.py) | 📅 Planejado |
+| **Aula 01** | Execução Sequencial, Variáveis, Constantes e comentários (`#`) | [Ver Código] | ✅ Concluído |
+| **Aula 02** | Tipos de Dados (`int`, `float`, `str`, `bool`) e Operadores | [Ver Código] | ✅ Concluído |
+| **Aula 03** | Entrada de dados (`input()`), conversão de tipos e f-Strings | [Ver Código] | ✅ Concluído |
+| **Aula 04** | Estruturas Condicionais Simples e Compostas (`if` / `else`) | [Ver Código] | ✅ Concluído |
+| **Aula 05** | Estruturas Condicionais Encadeadas (`elif`) e Operadores Lógicos | [Ver Código] | ✅ Concluído |
+| **Aula 06** | Estruturas de Repetição baseadas em contador (`for` e `range`) | [Ver Código] | ⏳ Em Andamento |
+| **Aula 07** | Estruturas de Repetição baseadas em condição (`while` e `break`) | [Ver Código] | 📅 Planejado |
+| **Aula 08** | Modularização e Criação de Ferramentas próprias (`def`) | [Ver Código] | 📅 Planejado |
 
 ---
 
