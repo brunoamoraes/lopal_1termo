@@ -61,7 +61,4 @@ Para baixar este portfólio e rodar os exemplos na sua máquina:
    ```bash
    git clone [https://github.com/brunoamoraes/lopal_1termo.git](https://github.com/brunoamoraes/lopal_1termo.git)
 
-👤 Docente Responsável
-Professor: Bruno Augusto de Moraes
-E-mail Corporativo: bruno.moraes@docente.senai.br
-Unidade: Escola SENAI “Luiz Varga” - CFP 5.05
+
